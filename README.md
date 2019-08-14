@@ -31,24 +31,24 @@
 
     Autocompletar
 
-* ctrl + l
+* `ctrl + l`
 
     Subir/Limpar tela
 
 
 ## Atom
 
-* ctrl+shift+p
+* `ctrl+shift+p`
 
     Paleta de comandos
 
-* ctrl+shift+m
+* `ctrl+shift+m`
 
     Preview de arquivo markdown
 
 ## Git
 
-* shift + botão direito
+* `shift` botão direito
 
       Abrir git bash
 
