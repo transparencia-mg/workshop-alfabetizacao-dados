@@ -57,3 +57,5 @@
 
 * Mostrar exemplo motivante no inicio
   * Eg. Renomear arquivos
+
+* Como utilizar `git mv` corretamente?
