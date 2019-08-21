@@ -10,10 +10,12 @@
 
 # Comandos
 
-* Configurar usuário
+* Configurar usuário e editor de texto
   ```bash
   git config --global user.name "Francisco Junior"
   git config --global user.email "francisco.junior@cge.mg.gov.br"
+  git config --global core.editor "atom --wait"
+  git config --list # lista as configuracoes atuais
   ```
 
 * Inicializar repositório
@@ -21,6 +23,15 @@
   git init
   ```
 
+* Fluxo de trabalho
+
+  ```bash
+  git status
+  git diff
+  git add <files>
+  git commit -m "<message>"
+  git log
+  ```
 
 
 # Atalhos
