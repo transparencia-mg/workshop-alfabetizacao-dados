@@ -59,3 +59,7 @@
   * Eg. Renomear arquivos
 
 * Como utilizar `git mv` corretamente?
+
+# Status
+
+* Como configurar editor de texto do git
