@@ -40,6 +40,11 @@
   git log
   ```
 
+* Sincronização alterações
+
+  ```bash
+  git clone <url>
+  ```
 
 # Atalhos
 
