@@ -44,6 +44,10 @@
 
   ```bash
   git clone <url>
+  git push # enviar alteracaoes para remote
+  git fetch # baixar alteracoes do remote
+  git merge # mescla alteracoes
+  git pull # git fetch & git merge
   ```
 
 # Atalhos
