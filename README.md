@@ -1,6 +1,8 @@
 # Instalação e Configuração do Ambiente
 
-* [Atom](https://atom.io/)
+* Editores de texto
+  * [Atom](https://atom.io/)
+  * [Sublime Text](https://www.sublimetext.com/)
 * [Git](https://git-scm.com/download/)
 
 # Temas
@@ -26,10 +28,15 @@
 * Fluxo de trabalho
 
   ```bash
-  git status
-  git diff
   git add <files>
   git commit -m "<message>"
+  ```
+
+* Utilitários
+
+  ```bash
+  git status # estado do repositório
+  git diff # alteracoes nos arquivos
   git log
   ```
 
@@ -45,6 +52,12 @@
 * `ctrl + l`
 
     Subir/Limpar tela
+
+* Colar
+
+    ```
+    shift + insert
+    ```
 
 
 ## Atom
