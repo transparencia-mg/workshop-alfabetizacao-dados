@@ -9,6 +9,7 @@
 
 * [Linha de Comando](http://swcarpentry.github.io/shell-novice/)
 * [Controle de Versão](http://swcarpentry.github.io/git-novice/)
+* [Análise de Dados com R](https://swcarpentry.github.io/r-novice-gapminder/)
 
 # Comandos
 
